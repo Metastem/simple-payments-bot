@@ -1,6 +1,6 @@
 WELCOME_TEXT = """Hello there,
 
-with this bot you can send money to {name}. You just have to write the amount of money you want to pay!
+with this bot you can send money to Metastem. You just have to write the amount of money you want to pay!
 
 > [info about bots payments](https://core.telegram.org/bots/payments#introducing-payments)
 > [info about the service that will handle the transaction](https://stripe.com)"""
@@ -19,7 +19,7 @@ INVALID_AMOUNT = """*Invalid amount*
 Min amount: 0,82 €
 Max amount: 8123,04 €"""
 
-INVOICE_TITLE = "Send {amount} € to {name}"
+INVOICE_TITLE = "Send {amount} € to Metastem"
 
 PRICE_LABEL = "money transfer"
 
